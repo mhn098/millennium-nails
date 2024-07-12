@@ -1,0 +1,21 @@
+.custom-header {
+    background-image: url(../../../public/imgs/pink\ flower.png);
+    background-position: center;
+    background-size: cover;
+    height: 425px;
+}
+
+.custom-header h1 {
+    margin-top: 35px;
+}
+
+.custom-dark-glow {
+    color: rgb(255, 255, 254);
+    text-shadow: 1px 1px 10px #000;
+}
+
+.custom-light-glow:hover {
+    text-shadow: 0 0 20px rgba(199, 206, 214, 0.8), 0 0 30px rgba(199, 206, 214, 0.8), 0 0 40px rgba(78, 80, 82, 0.8);
+}
+
+
