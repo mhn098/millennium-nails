@@ -22,3 +22,15 @@
     height: 250px;
     width: 450px;
 }
+
+.white-text {
+    color: white;
+}
+
+.green-text {
+    color: green;
+}
+
+.contact-image {
+    height: 25;
+}
