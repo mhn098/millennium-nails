@@ -18,4 +18,14 @@
     text-shadow: 0 0 20px rgba(199, 206, 214, 0.8), 0 0 30px rgba(199, 206, 214, 0.8), 0 0 40px rgba(78, 80, 82, 0.8);
 }
 
+.white-text {
+    color: white;
+}
 
+.green-text {
+    color: green;
+}
+
+.contact-image {
+    height: 25;
+}
