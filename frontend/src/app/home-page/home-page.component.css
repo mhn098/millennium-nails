@@ -69,6 +69,7 @@
     width: 500px; /* Adjust the size of the image */
     height: auto;
     margin-left: 20px;
+    margin-top: 60px;
 }
 
 .category-header {
@@ -98,4 +99,19 @@
 
 .price {
     white-space: nowrap;
+}
+
+.shorter {
+    height: 400px;
+}
+
+.business-hours {
+    display: flex;
+    flex-direction: column;
+}
+
+.day-time {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
 }
