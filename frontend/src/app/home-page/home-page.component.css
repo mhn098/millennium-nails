@@ -115,3 +115,48 @@
     justify-content: space-between;
     padding: 5px 0;
 }
+
+.d-flex {
+    display: flex;
+  }
+  
+.image-row {
+display: flex;            /* Use flexbox for horizontal layout */
+gap: 0.5rem;              /* Adjust gap between images */
+}
+
+.image-link {
+flex: 1;                  /* Ensure each image takes equal width */
+max-width: 33.33%;        /* Ensure images fit within the row */
+}
+
+.image-link img {
+display: block;
+width: 100%;              /* Make images fill their container */
+height: auto;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+}
+
+.contact-image {
+    max-width: 40px; /* Adjust size of icons */
+    margin-right: 1rem; /* Space between icon and text */
+}
+
+.image-row {
+    display: flex;
+    gap: 1rem; /* Space between images */
+    margin-bottom: 2rem; /* Space below the image row */
+}
+
+.business-hours {
+    margin-bottom: 2rem; /* Space below business hours section */
+}
+
+.location-widget iframe {
+    width: 100%; /* Make the iframe responsive */
+    height: 300px; /* Adjust height as needed */
+}
