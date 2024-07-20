@@ -8,7 +8,7 @@ Static Frontend Prototype Website Design for Millennium Nails, 1419 East Blvd Su
 # Technologies Used
 * Angular: Frontend framework used to build a responsive and interactive user interface
 * HTML/CSS/TypeScript: Core technologies for structuring and styling the website, and implementing interactivity
-*Bootstrap CSS: CSS framework used for reactive design and styling
+* Bootstrap CSS: CSS framework used for reactive design and styling
 
 #
 ![image](https://github.com/user-attachments/assets/d65c2336-cc76-4711-8f68-da062f975eb6)
