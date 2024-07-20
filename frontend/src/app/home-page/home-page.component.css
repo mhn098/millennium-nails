@@ -70,6 +70,8 @@
     height: auto;
     margin-left: 20px;
     margin-top: 60px;
+    display: block; /* Ensure image is displayed as a block */
+    align-self: center; /* Center the image vertically */
 }
 
 .category-header {
@@ -99,10 +101,24 @@
 
 .price {
     white-space: nowrap;
+    font-weight: bold;
 }
 
-.shorter {
+.shorter-pedi {
+    height: 300px;
+    margin-top: 40px;
+}
+
+.shorter-acrylic {
     height: 400px;
+}
+
+.description {
+    /* display: block; */
+    font-size: 0.9em; /* Slightly smaller font size */
+    color: gray; /* Gray color for description */
+    margin: 0px;
+    margin-left: 20px;
 }
 
 .business-hours {
@@ -159,4 +175,43 @@ height: auto;
 .location-widget iframe {
     width: 100%; /* Make the iframe responsive */
     height: 300px; /* Adjust height as needed */
+}
+
+.modal-body {
+    position: relative;
+}
+
+.modal-body img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.modal-body .prev-btn,
+.modal-body .next-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.6); /* Dark background */
+    color: white; /* White text color */
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 1.5rem; /* Adjust size as needed */
+    z-index: 10;
+}
+
+.modal-body .prev-btn {
+    left: 10px;
+}
+
+.modal-body .next-btn {
+    right: 10px;
+}
+
+.btn-close {
+    font-size: 1.5rem;
+    background: transparent;
+    border: none;
 }
