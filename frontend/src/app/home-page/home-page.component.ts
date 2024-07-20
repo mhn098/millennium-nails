@@ -38,6 +38,7 @@ export class HomePageComponent {
     '/gallery/pinkwhite.png',
     '/imgs/pink and white.png',
     '/gallery/purplesesa.png',
+    '/gallery/black.png',
     '/gallery/blackbutterfly.png',
     '/gallery/pinkblack.png',
     '/gallery/green.png',
