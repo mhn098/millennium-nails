@@ -17,3 +17,5 @@ Static Frontend Prototype Website Design for Millennium Nails, 1419 East Blvd Su
 ![image](https://github.com/user-attachments/assets/21e4faa5-4a27-4d0f-b0ae-58df67117fd4)
 ![image](https://github.com/user-attachments/assets/7e3b2699-14f8-4506-a067-4445ae804680)
 ![image](https://github.com/user-attachments/assets/d0ea452d-79bd-452e-8733-332cd3886111)
+![image](https://github.com/user-attachments/assets/e7cb0e25-3d44-4306-9ed1-f11edb86301a)
+![image](https://github.com/user-attachments/assets/937e9ae6-c1ea-4303-a83e-f1bacdaa8cc5)
